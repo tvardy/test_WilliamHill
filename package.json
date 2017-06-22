@@ -1,0 +1,13 @@
+{
+  "name": "william-hill-test",
+  "version": "0.0.1",
+  "description": "william-hill-test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tvardy@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "2.13.0"
+  }
+}
